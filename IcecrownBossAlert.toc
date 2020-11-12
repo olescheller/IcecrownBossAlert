@@ -1,0 +1,5 @@
+## Interface: 90001
+## Title: Icrecrown Boss Alert
+## Notes: Play a sound upon boss ice crown 9.0 pre patch spawn
+
+IcecrownBossAlert.lua
