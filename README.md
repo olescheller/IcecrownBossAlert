@@ -1,4 +1,4 @@
-# IcecrowBossAlert
+# IcecrownBossAlert
 
 Source code of the WoW interface addon IcecrowBossAlert.
 
